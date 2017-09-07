@@ -1,17 +1,17 @@
 <?php
 // Text
-$_['text_subject']        = '%s - Affiliate Program';
-$_['text_welcome']        = 'Thank you for joining the %s Affiliate Program!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_service']        = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_affiliate']  = 'New Affiliate';
-$_['text_signup']         = 'A new affiliate has signed up:';
+$_['text_subject']        = '%s - Chiến dịch liên kết';
+$_['text_welcome']        = 'Cảm ơn bạn đã tham gia chương trình %s Affiliate Program!';
+$_['text_login']          = 'Tài khoản của bạn đã được tạo và bạn có thể đăng nhập bằng e-mail và mật khẩu bằng cách truy cập vào website hoặc theo đường link bên dưới:';
+$_['text_approval']       = 'Tài khoản của bạn cần được cấp phép trước khi đăng nhập. Ngay khi tài khoản được tặng bạn có thể đăng nhập bằng e-mail và mật khẩu bằng cách truy cập vào website hoặc theo đường link bên dưới:';
+$_['text_service']        = 'Sau khi đăng nhập, bạn có thể theo dõi mã sản phẩm, giao dịch, mua bán và chỉnh sửa thông tin tài khoản.';
+$_['text_thanks']         = 'Cảm ơn,';
+$_['text_new_affiliate']  = 'Chiến dịch mới';
+$_['text_signup']         = 'Đã đăng ký chiến dịch:';
 $_['text_website']        = 'Web Site:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_company']        = 'Company:';
+$_['text_customer_group'] = 'Nhóm khách hàng:';
+$_['text_firstname']      = 'Họ và tên đệm:';
+$_['text_lastname']       = 'Tên:';
+$_['text_company']        = 'Công ty:';
 $_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_telephone']      = 'Số ĐT:';

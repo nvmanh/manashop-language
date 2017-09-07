@@ -1,8 +1,8 @@
 <?php
 // Heading
-$_['heading_title'] = 'Account Logout';
+$_['heading_title'] = 'Đăng xuất';
 
 // Text
-$_['text_message']  = '<p>You have been logged off your account. It is now safe to leave the computer.</p><p>Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.</p>';
-$_['text_account']  = 'Account';
-$_['text_logout']   = 'Logout';
+$_['text_message']  = '<p>Bạn đã đăng xuất tài khoản. Mọi thông tin cache đã được xóa.</p><p>Giỏ hàng đã được lưu lại, và các sản phẩm trong đó được gĩư nguyên cho tới khi bạn đăng nhập lại.</p>';
+$_['text_account']  = 'Tài khoản';
+$_['text_logout']   = 'Đăng xuất';

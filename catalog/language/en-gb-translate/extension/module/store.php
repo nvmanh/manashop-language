@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title'] = 'Choose a Store';
+$_['heading_title'] = 'Chọn một cửa hàng';
 
 // Text
-$_['text_default']  = 'Default';
-$_['text_store']    = 'Please choose the store you wish to visit.';
+$_['text_default']  = 'Mặc định';
+$_['text_store']    = 'Hãy chọn gian hàng mà bạn muốn đến.';

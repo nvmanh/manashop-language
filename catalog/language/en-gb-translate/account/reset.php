@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']  = 'Reset your password';
+$_['heading_title']  = 'Reset mật khẩu';
 
 // Text
-$_['text_account']   = 'Account';
-$_['text_password']  = 'Enter the new password you wish to use.';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+$_['text_account']   = 'Tài khoản';
+$_['text_password']  = 'Nhập mật khẩu mới.';
+$_['text_success']   = 'Thành công: Mật khẩu của bạn đã được đổi.';
 
 // Entry
-$_['entry_password'] = 'Password';
-$_['entry_confirm']  = 'Confirm';
+$_['entry_password'] = 'Mật khẩu';
+$_['entry_confirm']  = 'Xác nhận';
 
 // Error
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password and password confirmation do not match!';
-$_['error_code']     = 'Password reset code is invalid or was used previously!';
+$_['error_password'] = 'Mật khẩu phải dài từ 4 đến 20 ký tự!';
+$_['error_confirm']  = 'Xác nhận mật khẩu không giống!';
+$_['error_code']     = 'Mã reset mật  khẩu không hợp lệ hoặc đã được dùng!';

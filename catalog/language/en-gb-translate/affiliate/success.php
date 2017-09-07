@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Your Affiliate Account Has Been Created!';
+$_['heading_title'] = 'Tài khoản liên kết đã được tạo!';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You are now a member of %s affiliates.</p> <p>If you have ANY questions about the operation of this affiliate system, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering for an affiliate account with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this affiliate system, please <a href="%s">contact the store owner</a>.</p>';
-$_['text_account']  = 'Account';
-$_['text_success']  = 'Success';
+$_['text_message']  = '<p>Chúc mừng! Tài khoản của bạn đã được tạo!</p> <p>Bạn là thành viên liên kết số %s.</p> <p>Nếu bạn có bất kỳ câu hỏi nào về hệ thống liên kết, hãy gửi email cho chủ cửa hàng.</p> <p>Một email xác nhận đã được gửi tới email của bạn. Nếu bạn không nhận được nó trong vòng một giờ, hãy liên hệ với <a href="%s">chúng tôi</a>.</p>';
+$_['text_approval'] = '<p>Cảm ơn bạn đã tham gia chương trình liên kết %s!</p><p>Bạn sẽ nhận được email thông báo cấp phép tài khoản ngay khi chủ cửa hàng đồng ý.</p><p>Nếu bạn có bất kỳ câu hỏi nào hãy <a href="%s">liên hệ với Ad</a>.</p>';
+$_['text_account']  = 'Tài khoản';
+$_['text_success']  = 'Thành công';

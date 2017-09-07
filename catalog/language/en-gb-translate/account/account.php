@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']       = 'My Account';
+$_['heading_title']       = 'Tài khoản của tôi';
 
 // Text
-$_['text_account']        = 'Account';
-$_['text_my_account']     = 'My Account';
-$_['text_my_orders']      = 'My Orders';
-$_['text_my_affiliate']   = 'My Affiliate Account';
-$_['text_my_newsletter']  = 'Newsletter';
-$_['text_edit']           = 'Edit your account information';
-$_['text_password']       = 'Change your password';
-$_['text_address']        = 'Modify your address book entries';
-$_['text_credit_card']    = 'Manage Stored Credit Cards';
-$_['text_wishlist']       = 'Modify your wish list';
-$_['text_order']          = 'View your order history';
-$_['text_download']       = 'Downloads';
-$_['text_reward']         = 'Your Reward Points';
-$_['text_return']         = 'View your return requests';
-$_['text_transaction']    = 'Your Transactions';
-$_['text_newsletter']     = 'Subscribe / unsubscribe to newsletter';
-$_['text_recurring']      = 'Recurring payments';
-$_['text_transactions']   = 'Transactions';
-$_['text_affiliate_add']  = 'Register for an affiliate account';
-$_['text_affiliate_edit'] = 'Edit your affiliate information';
-$_['text_tracking']       = 'Custom Affiliate Tracking Code';
+$_['text_account']        = 'Tài khoản';
+$_['text_my_account']     = 'Tài khoản';
+$_['text_my_orders']      = 'Đơn hàng';
+$_['text_my_affiliate']   = 'Tài khoản liên kết';
+$_['text_my_newsletter']  = 'Tin tức';
+$_['text_edit']           = 'Sửa thông tin tài khoản';
+$_['text_password']       = 'Thay đổi mật khẩu';
+$_['text_address']        = 'Thay đổi sổ địa chỉ';
+$_['text_credit_card']    = 'Quản lý Credit Cards';
+$_['text_wishlist']       = 'Sửa yêu thích';
+$_['text_order']          = 'Xem lược sử mua hàng';
+$_['text_download']       = 'Tải về';
+$_['text_reward']         = 'Điểm thưởng của bạn';
+$_['text_return']         = 'Xem danh sách sản phẩm bị trả lại';
+$_['text_transaction']    = 'Giao dịch';
+$_['text_newsletter']     = 'Đăng ký / hủy đăng ký nhận tin';
+$_['text_recurring']      = 'Thanh toán định kỳ';
+$_['text_transactions']   = 'Giao dịch';
+$_['text_affiliate_add']  = 'Đăng ký tài khoản liên kết';
+$_['text_affiliate_edit'] = 'Sửa thông tin liên kết';
+$_['text_tracking']       = 'Sửa mã liên kết theo dõi';

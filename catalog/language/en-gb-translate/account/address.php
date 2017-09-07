@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']      = 'Address Book';
+$_['heading_title']      = 'Sổ địa chỉ';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_address_book']  = 'Address Book Entries';
-$_['text_address_add']   = 'Add Address';
-$_['text_address_edit']  = 'Edit Address';
-$_['text_add']           = 'Your address has been successfully added';
-$_['text_edit']          = 'Your address has been successfully updated';
-$_['text_delete']        = 'Your address has been successfully deleted';
-$_['text_empty']         = 'You have no addresses in your account.';
+$_['text_account']       = 'Tài khoản';
+$_['text_address_book']  = 'Danh sách địa chỉ';
+$_['text_address_add']   = 'Thêm địa chỉ';
+$_['text_address_edit']  = 'Sửa địa chỉ';
+$_['text_add']           = 'Thêm địa chỉ thành công';
+$_['text_edit']          = 'Cập nhật địa chỉ thành công';
+$_['text_delete']        = 'Địa chỉ đã được xóa';
+$_['text_empty']         = 'Bạn không có thông tin địa chỉ trong tài khoản.';
 
 // Entry
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
-$_['entry_company']      = 'Company';
-$_['entry_address_1']    = 'Address 1';
-$_['entry_address_2']    = 'Address 2';
-$_['entry_postcode']     = 'Post Code';
-$_['entry_city']         = 'City';
-$_['entry_country']      = 'Country';
-$_['entry_zone']         = 'Region / State';
-$_['entry_default']      = 'Default Address';
+$_['entry_firstname']    = 'Họ và tên đệm';
+$_['entry_lastname']     = 'Tên';
+$_['entry_company']      = 'Công ty';
+$_['entry_address_1']    = 'Địa chỉ 1';
+$_['entry_address_2']    = 'Địa chỉ 2';
+$_['entry_postcode']     = 'Mã bưu điện';
+$_['entry_city']         = 'Thành phố';
+$_['entry_country']      = 'Quốc gia';
+$_['entry_zone']         = 'Địa phương';
+$_['entry_default']      = 'Địa chỉ mặc định';
 
 // Error
-$_['error_delete']       = 'Warning: You must have at least one address!';
-$_['error_default']      = 'Warning: You can not delete your default address!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']    = 'Address must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters!';
-$_['error_city']         = 'City must be between 2 and 128 characters!';
-$_['error_country']      = 'Please select a country!';
-$_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';
+$_['error_delete']       = 'Cảnh báo: Bạn cần nhập ít nhất một địa chỉ!';
+$_['error_default']      = 'Cảnh báo: Bạn không thể xóa địa chỉ mặc định!';
+$_['error_firstname']    = 'Họ và tên đệm dài 1 đến 32 ký tự!';
+$_['error_lastname']     = 'Tên dài 1 đến 32 ký tự!';
+$_['error_address_1']    = 'Địa chỉ dài 3 đến 128 ký tự!';
+$_['error_postcode']     = 'Mã bưu điện dài 2 đến 10 ký tự!';
+$_['error_city']         = 'Thành phố dài 2 đến 128 ký tự!';
+$_['error_country']      = 'Hãy chọn Quốc gia!';
+$_['error_zone']         = 'Hãy chọn Địa phương!';
+$_['error_custom_field'] = '%s bắt buộc!';

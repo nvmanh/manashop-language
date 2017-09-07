@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']    = 'Purchase a Gift Certificate';
+$_['heading_title']    = 'Mua mã quà tặng';
 
 // Text
-$_['text_account']     = 'Account';
-$_['text_voucher']     = 'Gift Certificate';
-$_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
-$_['text_agree']       = 'I understand that gift certificates are non-refundable.';
-$_['text_message']     = '<p>Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.</p>';
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_account']     = 'Tài khoản';
+$_['text_voucher']     = 'Mã quà tặng';
+$_['text_description'] = 'Mã quà tặng này sẽ được email tới người nhận ngay khi bạn thanh toán hóa đơn.';
+$_['text_agree']       = 'Tôi đã hiểu mã quà tặng là không thể hoàn trả lại.';
+$_['text_message']     = '<p>Cảm ơn bạn đã mua mã quà tặng! Ngay khi bạn thanh toán hóa đơn quà của bạn sẽ đưọc gửi tới người nhận thông qua email cùng với hưóng dẫn chi tiết để sử dụng nó.</p>';
+$_['text_for']         = '%s Mã quà tặng dành cho %s';
 
 // Entry
-$_['entry_to_name']    = 'Recipient\'s Name';
-$_['entry_to_email']   = 'Recipient\'s e-mail';
-$_['entry_from_name']  = 'Your Name';
-$_['entry_from_email'] = 'Your e-mail';
-$_['entry_theme']      = 'Gift Certificate Theme';
-$_['entry_message']    = 'Message';
-$_['entry_amount']     = 'Amount';
+$_['entry_to_name']    = 'Tên người nhận';
+$_['entry_to_email']   = 'E-mail người nhận';
+$_['entry_from_name']  = 'Tên của bạn';
+$_['entry_from_email'] = 'E-mail của bạn';
+$_['entry_theme']      = 'Theem quà tặng';
+$_['entry_message']    = 'Tin nhắn';
+$_['entry_amount']     = 'Số tiền';
 
 // Help
-$_['help_message']     = 'Optional';
-$_['help_amount']      = 'Value must be between %s and %s';
+$_['help_message']     = 'Tùy chọn';
+$_['help_amount']      = 'Gía trị phải nằm trong khoảng %s và %s';
 
 // Error
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
-$_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';
+$_['error_to_name']    = 'Tên người nhận phải dài 1 đến 64 ký tự!';
+$_['error_from_name']  = 'Tên của bạn phải dài 1 đến 64 ký tự!';
+$_['error_email']      = 'E-Mail không hợp lệ!';
+$_['error_theme']      = 'Bạn phải chọn 1 theme!';
+$_['error_amount']     = 'Số tiền phải nằm trong khoảng %s và %s!';
+$_['error_agree']      = 'Cảnh báo: Bạn cần chú ý rằng quà tặng không thể hoàn trả!';
