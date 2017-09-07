@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']                 = 'Affiliate Program';
+$_['heading_title']                 = 'Chương trình Liên kết';
 
 // Text
-$_['text_account']                  = 'Account';
-$_['text_login']                    = 'Login';
-$_['text_description']              = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
-$_['text_new_affiliate']            = 'New Affiliate';
-$_['text_register_account']         = '<p>I am not currently an affiliate.</p><p>Click Continue below to create a new affiliate account. Please note that this is not connected in any way to your customer account.</p>';
-$_['text_returning_affiliate']      = 'Affiliate Login';
-$_['text_i_am_returning_affiliate'] = 'I am a returning affiliate.';
-$_['text_forgotten']                = 'Forgotten Password';
+$_['text_account']                  = 'Tài khoản';
+$_['text_login']                    = 'Đăng nhập';
+$_['text_description']              = '<p>%s chương trình liên kết miễn phí và được mở bởi các thành viên của cửa hàng để nhận thưởng bằng cách share hoặc đặt các link quảng cáo tới website cửa hàng của họ hoặc những sản phẩm mà họ giới thiệu %s hoặc rao bán.. Với mỗi khách hàng click vào link này thì bạn sẽ bạn sẽ nhận được điểm liên kết. Những chiến dịch hiện tại %s.</p><p>Để biết thêm chi tiết, hãy truy cập trang FAQ hoặc xem điều khoản Affiliate &amp; điều kiện.</p>';
+$_['text_new_affiliate']            = 'Liên kết mới';
+$_['text_register_account']         = '<p>Tôi hiện tại chưa tham gia liên kết nào.</p><p>Click tiếp tục để tạo tài khoản liên kết. Chú ý rằng việc này sẽ không ảnh hưởng tới tài khoản khách hàng của bạn.</p>';
+$_['text_returning_affiliate']      = 'Đăng nhập chương trình liên kết';
+$_['text_i_am_returning_affiliate'] = 'Tôi đã có tài khoản.';
+$_['text_forgotten']                = 'Quên mật khẩu';
 
 // Entry
-$_['entry_email']                   = 'Affiliate E-Mail';
-$_['entry_password']                = 'Password';
+$_['entry_email']                   = 'Email liên kết';
+$_['entry_password']                = 'Mật khẩu';
 
 // Error
-$_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']                = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']                = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                   = 'Cảnh báo: Địa chỉ email hoặc mật khẩu không hợp lệ.';
+$_['error_attempts']                = 'Cảnh báo: Tài khoản của bạn đã vượt quá số lần đăng nhập lỗi, hãy thử lại sau 1h nữa.';
+$_['error_approved']                = 'Cảnh báo: Tài khoản của bạn cần được cấp phép.';

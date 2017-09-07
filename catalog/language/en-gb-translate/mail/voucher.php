@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_subject']  = 'You have been sent a gift certificate from %s';
-$_['text_greeting'] = 'Congratulations, You have received a Gift Certificate worth %s';
-$_['text_from']     = 'This Gift Certificate has been sent to you by %s';
-$_['text_message']  = 'With a message saying';
-$_['text_redeem']   = 'To redeem this Gift Certificate, write down the redemption code which is <b>%s</b> then click on the the link below and purchase the product you wish to use this gift certificate on. You can enter the gift certificate code on the shopping cart page before you click checkout.';
-$_['text_footer']   = 'Please reply to this e-mail if you have any questions.';
+$_['text_subject']  = 'Bạn đã nhận được một mã quà tặng từ %s';
+$_['text_greeting'] = 'Chúc mừng, Bạn nhận được một mã quà tặng trị gía %s';
+$_['text_from']     = 'Mã quà tặng được gửi đến từ %s';
+$_['text_message']  = 'Cùng với thông điệp';
+$_['text_redeem']   = 'Để sử dụng mã quà tặng này, bạn hãy lưu lại mã <b>%s</b> sau đó click vào link bên dưới và mua sản phẩm mà bạn muốn với mã này. Bạn cũng có thể nhập mã này khi thanh toán bất kỳ đơn hàng nào.';
+$_['text_footer']   = 'Nếu bạn có bất kỳ câu hỏi nào hãy reply email này nhé.';

@@ -1,17 +1,17 @@
 <?php
 // Text
-$_['text_information']  = 'Information';
-$_['text_service']      = 'Customer Service';
-$_['text_extra']        = 'Extras';
-$_['text_contact']      = 'Contact Us';
-$_['text_return']       = 'Returns';
-$_['text_sitemap']      = 'Site Map';
-$_['text_manufacturer'] = 'Brands';
-$_['text_voucher']      = 'Gift Certificates';
-$_['text_affiliate']    = 'Affiliate';
-$_['text_special']      = 'Specials';
-$_['text_account']      = 'My Account';
-$_['text_order']        = 'Order History';
-$_['text_wishlist']     = 'Wish List';
-$_['text_newsletter']   = 'Newsletter';
-$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
+$_['text_information']  = 'Thông tin';
+$_['text_service']      = 'Chăm sóc khách hàng';
+$_['text_extra']        = 'Tiện ích';
+$_['text_contact']      = 'Liên hệ';
+$_['text_return']       = 'Quay lại';
+$_['text_sitemap']      = 'Bản đồ site';
+$_['text_manufacturer'] = 'Thương hiệu';
+$_['text_voucher']      = 'Quà tặng';
+$_['text_affiliate']    = 'Liên kết';
+$_['text_special']      = 'Sản phẩm đặc biệt';
+$_['text_account']      = 'Tài khoản của tôi';
+$_['text_order']        = 'Lược sử mua hàng';
+$_['text_wishlist']     = 'Yêu thích';
+$_['text_newsletter']   = 'Tin tức';
+$_['text_powered']      = 'Mã nguồn <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';

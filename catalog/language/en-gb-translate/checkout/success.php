@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']        = 'Your order has been placed!';
+$_['heading_title']        = 'Đơn hàng của bạn đã được đặt!';
 
 // Text
-$_['text_basket']          = 'Shopping Cart';
-$_['text_checkout']        = 'Checkout';
-$_['text_success']         = 'Success';
-$_['text_customer']        = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']           = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
+$_['text_basket']          = 'Giỏ hàng';
+$_['text_checkout']        = 'Thanh toán';
+$_['text_success']         = 'Thành công';
+$_['text_customer']        = '<p>Đơn hàng của bạn đã được đặt thành công!</p><p>Bạn có thể xem trong lược sử mua hàng bằng cách click vào <a href="%s">trang tài khoản</a> ở mục<a href="%s">lược sử</a>.</p><p>Nếu bạn muốn tải thông tin liên quan đến đơn hàng, bạn có thể truy cập <a href="%s">trang tải về</a> để xem chúng.</p><p>Nếu bạn có bất kì thắc mắc nào hãy liên hệ vơi <a href="%s">Ad</a>.</p><p>Cảm ơn bạn đã mua hàng!</p>';
+$_['text_guest']           = '<p>Đơn hàng được đặt thành công!</p><p>Nếu bạn có bất kì thắc mắc nào hãy liên hệ vơi <a href="%s">Ad</a>.</p><p>Cảm ơn bạn đã mua hàng!</p>';

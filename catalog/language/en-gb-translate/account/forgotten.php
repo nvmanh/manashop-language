@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']   = 'Forgot Your Password?';
+$_['heading_title']   = 'Quên mật khẩu?';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_forgotten']  = 'Forgotten Password';
-$_['text_your_email'] = 'Your E-Mail Address';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have a password reset link e-mailed to you.';
-$_['text_success']    = 'An email with a confirmation link has been sent your email address.';
+$_['text_account']    = 'Tài khoản';
+$_['text_forgotten']  = 'Quên mật khẩu';
+$_['text_your_email'] = 'Email';
+$_['text_email']      = 'Nhập địa chỉ email để nhận thông tin reset tài khoản.';
+$_['text_success']    = 'Một email với link để reset mật khẩu đã được gửi tới bạn.';
 
 // Entry
-$_['entry_email']     = 'E-Mail Address';
-$_['entry_password']  = 'New Password';
-$_['entry_confirm']   = 'Confirm';
+$_['entry_email']     = 'E-Mail';
+$_['entry_password']  = 'Mật khẩu mới';
+$_['entry_confirm']   = 'Xác nhận';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
-$_['error_approved']  = 'Warning: Your account requires approval before you can login.';
-$_['error_password']  = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']   = 'Password and password confirmation do not match!';
+$_['error_email']     = 'Cảnh báo: Địa chỉ email không tồn tại trong hệ thống!';
+$_['error_approved']  = 'Cảnh báo: Tài khoản cần được cấp phép.';
+$_['error_password']  = 'Mật khẩu dài 4 đến 20 ký tự!';
+$_['error_confirm']   = 'Mật khẩu xác nhận không giống!';
